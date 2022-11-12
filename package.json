@@ -1,0 +1,10 @@
+{
+  "name": "trace-api-sample-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@usebirch/submission-api": "^0.21.0-26-gc070ecb.dirty",
+    "conjure-client": "^2.9.0"
+  }
+}
